@@ -2,7 +2,7 @@ import java.util.ArrayList;
 public class TestOrders {
     public static void main(String[] args) {
     
-        Item item1 = new Item();
+        Item item1 = new Item("String name", 5);
         item1.setName("mocha");
         item1.setPrice(12.5);
         Item item2 = new Item();
