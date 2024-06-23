@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+/Users/teast/Desktop/SpringProjects/.metadata/.plugins/org.eclipse.jdt.core
+3230649949.index
+2582861823.index
+667529188.index
+1874542583.index
+433760735.index
+3020293802.index
+2318455883.index
+3315358695.index
+1134249278.index
+2683070116.index
+4037214698.index
+2203604321.index
+1865797976.index
+3646094128.index
+1709033792.index
+915722180.index
