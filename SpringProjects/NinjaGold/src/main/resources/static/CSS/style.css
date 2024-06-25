@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.container {
+    width: 970px;
+    height: 300px;
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+/* }
+.yourGold{
+    display: flex;
+    align-items: center;
+} */
+
+.count {
+    width: 120px;
+    height: 20px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+
+
+
+.activities{
+	border: 2px solid rgb(25, 128, 118);
+	width: 970px;
+	height: 200px;
+ 	overflow: auto;
+	margin-left: -715px;
+	margin-top: 150px;
+	
+	
+}
+.Quest{
+	width: 200px;
+	height:130px;
+}

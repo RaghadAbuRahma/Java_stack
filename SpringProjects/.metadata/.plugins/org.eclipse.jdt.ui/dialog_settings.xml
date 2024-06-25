@@ -47,6 +47,7 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="SourceActionDialog.methods">
 		<item key="VisibilityModifier" value="1"/>
@@ -64,5 +65,8 @@
 		<item key="DIALOG_WIDTH" value="557"/>
 		<item key="DIALOG_HEIGHT" value="638"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="3"/>
 	</section>
 </section>
