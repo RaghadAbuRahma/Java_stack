@@ -13,25 +13,28 @@ import jakarta.servlet.http.HttpSession;
 public class HomeController {
 
 	
-@RequestMapping("/counter")
+@RequestMapping("/")
 public String index(HttpSession session) {
 	Integer count = 0;
 	
 	
-	 if (session.setAttribute("count") == null) {
+	 if (session.getAttribute("count") == null) {
 		 session.setAttribute("count", 0);
 	 }
 	 else {
-		 count = (Integer) session.setAttribute("count");
+		 count = (Integer) session.getAttribute("count");
 		 count ++;
 		 session.setAttribute("count", count);
 		 
 	 }
-	 
-	
 	return "index.jsp";
 	
 }
-
-
+	@RequestMapping ("/counter")
+	public String counter() {
+		
+	return "counter.jsp";
+	
+	
+	}
 }

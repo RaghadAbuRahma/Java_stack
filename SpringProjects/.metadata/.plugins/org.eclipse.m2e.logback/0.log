@@ -2838,3 +2838,66 @@ Caused by: java.lang.Exception: File not found: /Users/teast/AXSOS/assinments/JA
 2024-06-26 00:23:35,787 [Worker-67: Launching NinjaGold - NinjaGoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2024-06-26 00:23:35,796 [Worker-67: Launching NinjaGold - NinjaGoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2024-06-26 00:23:35,797 [Worker-67: Launching NinjaGold - NinjaGoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/NinjaGold/src/test/resources
+2024-06-26 00:34:08,716 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 00:34:08,762 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:34:08,766 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:37:04,090 [Worker-73: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 00:37:04,108 [Worker-73: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:37:04,109 [Worker-73: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:37:43,677 [Worker-77: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 00:37:43,683 [Worker-77: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:37:43,685 [Worker-77: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:46:20,451 [Worker-80: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:46:20,453 [Worker-80: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:46:20,455 [Worker-80: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:47:16,250 [Worker-82: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:47:16,251 [Worker-82: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:47:16,252 [Worker-82: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:47:45,729 [Worker-74: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:47:45,730 [Worker-74: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:47:45,731 [Worker-74: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:48:30,920 [Worker-81: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:48:30,921 [Worker-81: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:48:30,923 [Worker-81: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:49:05,622 [Worker-74: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:49:05,623 [Worker-74: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:49:05,624 [Worker-74: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:49:39,315 [Worker-85: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:49:39,316 [Worker-85: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:49:39,317 [Worker-85: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:52:55,928 [Worker-80: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:52:55,929 [Worker-80: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:52:55,930 [Worker-80: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:53:03,746 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:53:03,747 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:53:03,748 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:53:13,699 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:53:13,701 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:53:13,702 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:53:30,098 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:53:30,098 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:53:30,100 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:54:50,506 [Worker-91: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 00:54:50,515 [Worker-91: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:54:50,516 [Worker-91: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:56:41,219 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:56:41,220 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:56:41,221 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:59:12,884 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 00:59:12,917 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:59:12,924 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 00:59:35,443 [Worker-87: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 00:59:35,447 [Worker-87: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 00:59:35,449 [Worker-87: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 01:00:39,982 [Worker-92: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 01:00:39,982 [Worker-92: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 01:00:39,984 [Worker-92: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 01:01:51,766 [Worker-92: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 01:01:51,767 [Worker-92: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 01:01:51,769 [Worker-92: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 01:02:25,681 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 01:02:25,689 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 01:02:25,690 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources
+2024-06-26 01:04:18,610 [Worker-93: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-26 01:04:18,615 [Worker-93: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-26 01:04:18,617 [Worker-93: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Counter/src/test/resources

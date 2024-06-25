@@ -9,7 +9,12 @@
 <title>Count</title>
 </head>
 <body>
-<h1>Welcome User! </h1>
+	<h2>
+					You have visited <a href="/">The Counter</a>
+					<c:out value="${count}"></c:out>
+					times
+				</h2>
+				<h3><a href="/">Test another visit?</a>
 
 </body>
 </html>
