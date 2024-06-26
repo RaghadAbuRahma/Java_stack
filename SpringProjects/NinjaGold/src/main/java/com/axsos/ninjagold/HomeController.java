@@ -21,7 +21,6 @@ public class HomeController {
             count = 0;
             session.setAttribute("count", count);
         }
-        model.addAttribute("count", count);
         return "index.jsp";
     }
 
@@ -34,6 +33,7 @@ public class HomeController {
         }
 
         ArrayList<String> activities = (ArrayList<String>) session.getAttribute("activities");
+        System.out.println("**********" + activities);
         if (activities == null) {
             activities = new ArrayList<>();
         }
