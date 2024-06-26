@@ -1,5 +1,7 @@
 package com.example.BooksAPI.controllers;
 import java.util.Date;
+import java.util.List;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -42,5 +44,12 @@ public class BookController {
 
 		return "show.jsp";	
 	}
+	
+	  @RequestMapping("/books")
+	    public String index(Model model) {
+	        List<Book> books = bookServices.allBooks();
+	        model.addAttribute("books", books);
+	        return "index.jsp";
+	    }
 
 }

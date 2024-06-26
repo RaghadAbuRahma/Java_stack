@@ -6,7 +6,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Demo JSP</title>
+        <title>Books</title>
     </head>
 <body>
   
