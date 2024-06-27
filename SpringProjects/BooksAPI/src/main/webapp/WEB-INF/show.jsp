@@ -10,7 +10,9 @@
     </head>
 <body>
   
-	<h1><c:out value="${title}"></c:out></h1>
+	<h1>
+		<c:out value="${title}"></c:out>
+	</h1>
 	<h3>Description: <c:out value="${desc}"></c:out></h3>
 	<h4>Language: <c:out value="${lan}"></c:out></h4>
 	<h4>Number of Pages: <c:out value="${num}"></c:out></h4>

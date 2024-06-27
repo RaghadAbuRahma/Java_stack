@@ -7,6 +7,8 @@
     <head>
         <meta charset="UTF-8">
         <title>Books</title>
+		<link rel="stylesheet" type="text/CSS" href="/CSS/style.css">
+
     </head>
 <body>
 	<table>
@@ -14,13 +16,16 @@
 			<th>ID</th>
 	        <th>Title</th>
 	        <th>Description</th>
+			<th>Pages</th>
 			
 	    </tr>
 	    <c:forEach var="book" items="${books}">
 	        <tr>
 				<td><c:out value="${book.id}"/></td>
-	            <td><c:out value="${book.title}"/></td>
+				<td><a href="/books/${book.id}">${book.title }</a></td>
 	            <td><c:out value="${book.description}"/></td>
+				<td><c:out value="${book.numberOfPages}"/></td>
+				
 	        </tr>
 	    </c:forEach>
 	</table>
