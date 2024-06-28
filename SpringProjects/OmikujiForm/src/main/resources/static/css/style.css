@@ -1,0 +1,30 @@
+label{
+display: block;
+
+}
+.formm{
+	border: 1px solid black;
+	width: 400px;
+	height: 450px;
+	margin: auto;
+}
+
+form{
+	margin-left: 90px;
+	margin-top: 50px;
+}
+
+
+.btn1{
+	background-color: cornflowerblue;
+	border: 1px solid black;
+	 box-shadow: 3px 3px 3px;
+	 width: 60px;
+	 height: 30px;
+	 margin-left: 50px;
+}
+
+h1{
+	text-align: center;
+}
+
