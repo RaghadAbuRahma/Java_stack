@@ -1,7 +1,3 @@
 INDEX VERSION 1.134+/Users/teast/AXSOS/assinments/JAVA/SpringProjects/.metadata/.plugins/org.eclipse.jdt.core
-1568350460.index
-1665501555.index
-1699248506.index
-2945776104.index
-1111985150.index
 1865797976.index
+232404291.index

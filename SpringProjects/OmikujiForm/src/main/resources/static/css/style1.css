@@ -1,4 +1,4 @@
-.container{
+.formm{
 	width: 400px;
 	height:400px;
 	border: 1px solid black;
@@ -17,6 +17,7 @@ h1{
 	text-align: center;
 }
 
+
 a{
 	background-color: white;
 	border: 1px solid black;
@@ -24,5 +25,5 @@ a{
 	 width: 60px;
 	 height: 30px;
 	 margin-left: 170px;
-	 margin-top: 1000px;
+	
 }

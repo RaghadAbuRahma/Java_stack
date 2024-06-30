@@ -13,7 +13,7 @@
 	
 	<h1>Here's Your Omikuji!</h1>
 <div class="container">
-	<div class="formm">
+	<div>
 		<h3> In <c:out value="${number}"></c:out> years, you will live in <c:out value="${city}"></c:out> with <c:out value="${person}"></c:out> as your roommate, selling
 			<c:out value="${hobby}"></c:out> for living. The next time you see a <c:out value="${living_thing}"></c:out>, you will have good luck. Also, <c:out value="${smth_nice}"></c:out></h3>
 	</div>

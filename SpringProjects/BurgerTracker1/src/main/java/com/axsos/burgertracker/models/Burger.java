@@ -9,8 +9,12 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import jakarta.validation.constraints.Max;
+import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
+
 
 
 @Entity
@@ -25,8 +29,9 @@ public class Burger {
 	@NotBlank
     @Size(min = 5, max = 200)
     private String resturant_name;
-	@NotBlank
-    @Size(min = 0, max = 5)
+	@NotNull
+	@Min(1)
+    @Max(5)
     private Integer rating;
     @Column(updatable=false)
     @DateTimeFormat(pattern="yyyy-MM-dd")

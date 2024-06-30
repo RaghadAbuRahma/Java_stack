@@ -10086,3 +10086,182 @@ java.lang.IllegalArgumentException: Argument not valid
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:00:50.517
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:00:50.518
+!MESSAGE Boot project REMOVED: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:01:14.180
+!MESSAGE Classpath changed for project: BurgerTracker1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:01:14.441
+!MESSAGE Classpath changed for project: BurgerTracker1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:01:15.393
+!MESSAGE Classpath changed for project: BurgerTracker1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:01:15.395
+!MESSAGE Boot project ADDED: BurgerTracker1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:01:15.457
+!MESSAGE Classpath changed for project: BurgerTracker1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:24:08.250
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:24:08.254
+!MESSAGE Boot project ADDED: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:24:29.612
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 13:24:29.613
+!MESSAGE Boot project REMOVED: OmikujiForm
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-06-30 13:28:27.386
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-06-30 13:31:04.829
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-06-30 13:31:19.564
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-06-30 13:37:48.244
+!MESSAGE Unable to compute end of document
+!STACK 0
+org.eclipse.jface.text.BadLocationException: 358
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1112)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:246)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:863)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toPosition(LSPEclipseUtils.java:193)
+	at org.eclipse.lsp4e.operations.inlayhint.InlayHintProvider.provideCodeMinings(InlayHintProvider.java:44)
+	at org.eclipse.lsp4e.operations.inlayhint.InlayHintProvider.provideCodeMinings(InlayHintProvider.java:80)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.lambda$2(CodeMiningManager.java:189)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.getCodeMinings(CodeMiningManager.java:195)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.updateCodeMinings(CodeMiningManager.java:140)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.run(CodeMiningManager.java:129)
+	at org.eclipse.jface.text.source.SourceViewer.updateCodeMinings(SourceViewer.java:1333)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaCodeMiningReconciler.reconciled(JavaCodeMiningReconciler.java:51)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1685)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-06-30 13:55:49.157
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-06-30 14:26:56.118
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:49:03.370
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:49:03.372
+!MESSAGE Boot project ADDED: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:49:40.761
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:49:40.762
+!MESSAGE Boot project REMOVED: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:50:47.287
+!MESSAGE Classpath changed for project: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:50:47.474
+!MESSAGE Classpath changed for project: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:50:48.565
+!MESSAGE Classpath changed for project: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:50:48.566
+!MESSAGE Boot project ADDED: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:51:53.794
+!MESSAGE Classpath changed for project: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:51:53.796
+!MESSAGE Boot project REMOVED: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:51:54.248
+!MESSAGE Classpath changed for project: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:51:54.249
+!MESSAGE Boot project ADDED: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:54:52.537
+!MESSAGE Classpath changed for project: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:54:52.538
+!MESSAGE Boot project REMOVED: Rendering_Books
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:54:54.518
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:54:54.518
+!MESSAGE Boot project ADDED: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:55:07.689
+!MESSAGE Classpath changed for project: OmikujiForm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-30 14:55:07.691
+!MESSAGE Boot project REMOVED: OmikujiForm

@@ -18,6 +18,11 @@ public class BurgerService {
 	    public List<Burger> allBurgers() {
 	        return burgerRepository.findAll();
 	    }
+	    
+	    public Burger addBurger(Burger burger) {
+	    	return burgerRepository.save(burger);
+	    	
+	    }
 
 	
 }
