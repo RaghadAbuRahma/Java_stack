@@ -4921,3 +4921,819 @@ Caused by: java.lang.Exception: File not found: /Users/teast/AXSOS/assinments/JA
 2024-06-30 14:50:49,573 [Worker-583: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Rendering_Books
 2024-06-30 14:51:54,876 [Worker-587: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.BooksAPI:BooksAPI:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/Rendering_Books/pom.xml.
 2024-06-30 14:54:55,619 [Worker-595: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.omikujiform:OmikujiForm:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/OmikujiForm/pom.xml.
+2024-06-30 15:01:02,618 [Worker-592: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.savetravels:SaveTravels:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/pom.xml.
+2024-06-30 15:01:02,773 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaveTravels/src/main/java
+2024-06-30 15:01:02,773 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/main/resources
+2024-06-30 15:01:02,774 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/main/resources
+2024-06-30 15:01:02,775 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaveTravels/src/test/java
+2024-06-30 15:01:02,775 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/test/resources
+2024-06-30 15:01:03,028 [Worker-592: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-06-30 15:01:03,028 [Worker-592: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-30 15:01:03,112 [Worker-592: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.savetravels:SaveTravels:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/pom.xml.
+2024-06-30 15:01:03,282 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaveTravels/src/main/java
+2024-06-30 15:01:03,282 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/main/resources
+2024-06-30 15:01:03,282 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/main/resources
+2024-06-30 15:01:03,282 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaveTravels/src/test/java
+2024-06-30 15:01:03,283 [Worker-592: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/test/resources
+2024-06-30 15:01:03,478 [Worker-592: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SaveTravels
+2024-06-30 15:01:03,481 [Worker-592: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-06-30 15:01:03,740 [Worker-600: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:01:03,747 [Worker-600: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:01:03,749 [Worker-600: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:01:03,749 [Worker-600: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SaveTravels
+2024-06-30 15:01:03,749 [Worker-600: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SaveTravels
+2024-06-30 15:03:56,672 [Worker-605: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.burgertracker:BurgerTracker1:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/pom.xml.
+2024-06-30 15:04:30,849 [Worker-604: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:04:30,862 [Worker-604: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:04:30,864 [Worker-604: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 15:04:34,411 [Worker-604: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:04:34,418 [Worker-604: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:04:34,419 [Worker-604: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 15:05:41,190 [Worker-592: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.burgertracker:BurgerTracker1:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/pom.xml.
+2024-06-30 15:09:05,566 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:09:05,589 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:09:05,590 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:12:59,566 [Worker-592: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:12:59,574 [Worker-592: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:12:59,575 [Worker-592: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:13:41,176 [Worker-613: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.savetravels:SaveTravels:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/pom.xml.
+2024-06-30 15:13:41,401 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:13:41,401 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:13:41,403 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:13:41,403 [Worker-613: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SaveTravels
+2024-06-30 15:13:41,403 [Worker-613: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SaveTravels
+2024-06-30 15:13:42,508 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:13:42,517 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:13:42,518 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:14:48,407 [Worker-592: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:14:48,415 [Worker-592: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:14:48,416 [Worker-592: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:15:02,538 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:15:02,546 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:15:02,548 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:17:45,631 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:17:45,640 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:17:45,641 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:18:01,242 [Worker-616: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:18:01,256 [Worker-616: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:18:01,258 [Worker-616: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:18:38,715 [Worker-614: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:18:38,723 [Worker-614: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:18:38,724 [Worker-614: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:19:43,357 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:19:43,371 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:19:43,372 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:20:08,361 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:20:08,375 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:20:08,377 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:20:26,297 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:20:26,306 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:20:26,307 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:22:49,756 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:22:49,760 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:22:49,762 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:23:03,361 [Worker-615: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:23:03,367 [Worker-615: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:23:03,368 [Worker-615: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:27:22,531 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:27:22,544 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:27:22,547 [Worker-616: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:27:50,443 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:27:50,449 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:27:50,451 [Worker-613: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:29:17,235 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:29:17,244 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:29:17,246 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:34:02,719 [Worker-620: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.burgertracker:BurgerTracker1:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/pom.xml.
+2024-06-30 15:34:02,970 [Worker-620: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:34:02,977 [Worker-620: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:34:02,978 [Worker-620: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 15:34:03,326 [Worker-621: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:34:03,327 [Worker-621: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:34:03,328 [Worker-621: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 15:34:03,328 [Worker-621: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BurgerTracker1
+2024-06-30 15:34:03,328 [Worker-621: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BurgerTracker1
+2024-06-30 15:37:28,290 [Worker-618: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:37:28,347 [Worker-618: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:37:28,352 [Worker-618: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:37:30,808 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:37:30,822 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:37:30,824 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:41:47,956 [Worker-618: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:41:47,966 [Worker-618: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:41:47,967 [Worker-618: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:42:43,664 [Worker-619: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:42:43,673 [Worker-619: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:42:43,675 [Worker-619: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:43:10,549 [Worker-621: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:43:10,568 [Worker-621: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:43:10,569 [Worker-621: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:43:34,870 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:43:34,871 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:43:34,872 [Worker-609: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:48:33,234 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:48:33,236 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:48:33,237 [Worker-612: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:49:54,125 [Worker-626: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:49:54,134 [Worker-626: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:49:54,135 [Worker-626: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:50:41,966 [Worker-620: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:50:41,988 [Worker-620: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:50:41,989 [Worker-620: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:52:12,219 [Worker-624: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:52:12,220 [Worker-624: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:52:12,221 [Worker-624: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:52:44,621 [Worker-624: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:52:44,622 [Worker-624: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:52:44,623 [Worker-624: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:53:30,026 [Worker-629: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 15:53:30,034 [Worker-629: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:53:30,035 [Worker-629: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 15:58:05,600 [Worker-630: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:58:05,601 [Worker-630: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 15:58:05,602 [Worker-630: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:00:27,724 [Worker-636: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:00:27,736 [Worker-636: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:00:27,737 [Worker-636: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:00:59,642 [Worker-635: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:00:59,653 [Worker-635: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:00:59,654 [Worker-635: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:02:35,645 [Worker-638: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:02:35,655 [Worker-638: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:02:35,657 [Worker-638: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:02:37,008 [Worker-637: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:02:37,009 [Worker-637: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:02:37,009 [Worker-637: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:04:49,299 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:04:49,301 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:04:49,302 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:05:32,750 [Worker-643: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:05:32,758 [Worker-643: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:05:32,760 [Worker-643: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:16:01,170 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:01,172 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:01,173 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:16:27,062 [Worker-635: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:27,063 [Worker-635: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:27,064 [Worker-635: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:16:41,568 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:41,569 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:41,570 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:16:51,242 [Worker-646: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:51,243 [Worker-646: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:16:51,244 [Worker-646: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:17:24,605 [Worker-645: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.burgertracker:BurgerTracker1:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/pom.xml.
+2024-06-30 16:17:24,862 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:17:24,878 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:17:24,880 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 16:17:25,956 [Worker-648: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:17:25,956 [Worker-648: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:17:25,957 [Worker-648: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 16:17:25,957 [Worker-648: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BurgerTracker1
+2024-06-30 16:17:25,957 [Worker-648: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BurgerTracker1
+2024-06-30 16:20:07,718 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:20:07,724 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:20:07,725 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:21:10,095 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:21:10,101 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:21:10,101 [Worker-641: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:21:44,217 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:21:44,218 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:21:44,218 [Worker-645: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:24:11,346 [Worker-643: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:24:11,348 [Worker-643: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:24:11,349 [Worker-643: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:26:40,753 [Worker-651: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:26:40,759 [Worker-651: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:26:40,760 [Worker-651: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:35:53,533 [Worker-657: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:35:53,549 [Worker-657: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:35:53,550 [Worker-657: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:36:49,613 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:36:49,626 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:36:49,627 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:41:23,427 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:41:23,442 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:41:23,443 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:42:16,473 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:42:16,493 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:42:16,495 [Worker-654: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:52:18,008 [Worker-663: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:52:18,009 [Worker-663: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:52:18,010 [Worker-663: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:53:34,844 [Worker-665: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:53:34,860 [Worker-665: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:53:34,863 [Worker-665: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:55:27,319 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:55:27,337 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:55:27,339 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:55:48,139 [Worker-665: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:55:48,145 [Worker-665: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:55:48,146 [Worker-665: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:56:06,510 [Worker-667: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:56:06,519 [Worker-667: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:56:06,520 [Worker-667: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:58:45,998 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:58:46,018 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:58:46,019 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 16:59:29,545 [Worker-661: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 16:59:29,553 [Worker-661: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 16:59:29,554 [Worker-661: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:26:47,735 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:26:47,741 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:26:47,742 [Worker-668: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:30:27,512 [Worker-675: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:30:27,513 [Worker-675: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:30:27,515 [Worker-675: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:30:46,807 [Worker-672: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:30:46,813 [Worker-672: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:30:46,814 [Worker-672: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:33:04,952 [Worker-675: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:33:04,981 [Worker-675: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:33:04,982 [Worker-675: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:34:04,279 [Worker-660: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:34:04,287 [Worker-660: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:34:04,288 [Worker-660: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:39:33,510 [Worker-683: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:39:33,523 [Worker-683: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:39:33,524 [Worker-683: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:39:39,032 [Worker-684: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:39:39,048 [Worker-684: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:39:39,050 [Worker-684: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:39:45,599 [Worker-681: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:39:45,600 [Worker-681: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:39:45,601 [Worker-681: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:45:10,930 [Worker-690: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:45:10,931 [Worker-690: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:45:10,932 [Worker-690: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:45:31,644 [Worker-683: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:45:31,650 [Worker-683: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:45:31,660 [Worker-683: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:45:56,579 [Worker-687: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:45:56,580 [Worker-687: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:45:56,581 [Worker-687: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:46:34,447 [Worker-687: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:46:34,448 [Worker-687: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:46:34,449 [Worker-687: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:50:43,190 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:50:43,192 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:50:43,193 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:52:03,344 [Worker-678: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:52:03,366 [Worker-678: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:52:03,367 [Worker-678: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:56:57,050 [Worker-698: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:56:57,104 [Worker-698: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:56:57,105 [Worker-698: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:57:31,018 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:57:31,054 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:57:31,056 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 18:58:34,618 [Worker-697: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.burgertracker:BurgerTracker1:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/pom.xml.
+2024-06-30 18:58:34,973 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:58:34,982 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:58:34,985 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 18:58:35,234 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 18:58:35,235 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 18:58:35,236 [Worker-694: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BurgerTracker1/src/test/resources
+2024-06-30 18:58:35,236 [Worker-694: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BurgerTracker1
+2024-06-30 18:58:35,236 [Worker-694: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BurgerTracker1
+2024-06-30 19:00:38,351 [Worker-703: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:00:38,368 [Worker-703: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:00:38,369 [Worker-703: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:01:38,534 [Worker-702: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:01:38,542 [Worker-702: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:01:38,544 [Worker-702: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:01:42,886 [Worker-698: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:01:42,901 [Worker-698: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:01:42,903 [Worker-698: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:02:48,821 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:02:48,823 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:02:48,824 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:02:52,058 [Worker-703: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:02:52,068 [Worker-703: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:02:52,069 [Worker-703: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:03:25,329 [Worker-702: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:03:25,331 [Worker-702: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:03:25,332 [Worker-702: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:03:39,062 [Worker-699: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:03:39,063 [Worker-699: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:03:39,064 [Worker-699: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:03:59,268 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:03:59,269 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:03:59,270 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:04:32,581 [Worker-703: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:04:32,582 [Worker-703: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:04:32,583 [Worker-703: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:08:54,517 [Worker-706: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:08:54,541 [Worker-706: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:08:54,543 [Worker-706: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:09:44,472 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:09:44,489 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:09:44,491 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:13:12,506 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:13:12,534 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:13:12,537 [Worker-697: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:13:31,829 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:13:31,852 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:13:31,854 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:13:33,720 [Worker-712: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:13:33,720 [Worker-712: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:13:33,721 [Worker-712: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:15:02,169 [Worker-710: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:15:02,176 [Worker-710: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:15:02,177 [Worker-710: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:16:10,554 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:16:10,568 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:16:10,569 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:17:03,521 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:17:03,523 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:17:03,524 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:17:21,378 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:17:21,379 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:17:21,381 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:17:37,222 [Worker-715: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:17:37,241 [Worker-715: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:17:37,242 [Worker-715: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:18:32,441 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:18:32,446 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:18:32,447 [Worker-711: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:19:01,187 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:19:01,247 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:19:01,249 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:23:52,450 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:23:52,457 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:23:52,458 [Worker-713: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:24:09,323 [Worker-716: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:24:09,332 [Worker-716: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:24:09,335 [Worker-716: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:24:48,705 [Worker-712: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:24:48,707 [Worker-712: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:24:48,707 [Worker-712: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:26:25,664 [Worker-720: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:26:25,804 [Worker-720: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:26:25,806 [Worker-720: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:27:44,766 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:27:44,832 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:27:44,833 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:31:40,021 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:31:40,028 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:31:40,029 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:32:34,683 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:32:34,691 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:32:34,696 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:33:32,925 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:33:32,926 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:33:32,927 [Worker-717: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:33:40,554 [Worker-724: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:33:40,566 [Worker-724: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:33:40,568 [Worker-724: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:33:51,704 [Worker-716: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:33:51,717 [Worker-716: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:33:51,718 [Worker-716: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:37:14,751 [Worker-726: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:37:14,851 [Worker-726: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:37:14,852 [Worker-726: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:42:46,460 [Worker-729: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:42:46,543 [Worker-729: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:42:46,544 [Worker-729: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:43:34,840 [Worker-730: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:43:34,903 [Worker-730: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:43:34,904 [Worker-730: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:44:45,346 [Worker-730: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:44:45,360 [Worker-730: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:44:45,364 [Worker-730: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:45:44,856 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:45:44,877 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:45:44,878 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:48:33,231 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:48:33,246 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:48:33,248 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:48:57,833 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:48:57,841 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:48:57,842 [Worker-722: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:53:16,166 [Worker-728: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:53:16,167 [Worker-728: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:53:16,168 [Worker-728: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:53:56,883 [Worker-735: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:53:56,913 [Worker-735: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:53:56,915 [Worker-735: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 19:55:27,280 [Worker-735: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 19:55:27,288 [Worker-735: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 19:55:27,289 [Worker-735: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 20:01:45,922 [Worker-743: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 20:01:45,929 [Worker-743: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 20:01:45,930 [Worker-743: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 20:03:21,706 [Worker-743: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 20:03:21,728 [Worker-743: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 20:03:21,733 [Worker-743: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 21:02:06,088 [Worker-742: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 21:02:06,151 [Worker-742: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:02:06,153 [Worker-742: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 21:06:55,246 [Worker-762: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:06:55,247 [Worker-762: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:06:55,249 [Worker-762: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 21:10:27,151 [Worker-764: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:10:27,152 [Worker-764: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:10:27,153 [Worker-764: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 21:10:28,763 [Worker-757: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 21:10:28,776 [Worker-757: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:10:28,779 [Worker-757: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 21:16:17,999 [Worker-763: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 21:16:18,031 [Worker-763: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:16:18,035 [Worker-763: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 21:17:59,859 [Worker-776: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 21:17:59,867 [Worker-776: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 21:17:59,868 [Worker-776: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-06-30 22:08:11,904 [Worker-774: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.relationships:relationships:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/relationships/pom.xml.
+2024-06-30 22:08:12,098 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /relationships/src/main/java
+2024-06-30 22:08:12,098 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /relationships/src/main/resources
+2024-06-30 22:08:12,099 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /relationships/src/main/resources
+2024-06-30 22:08:12,100 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /relationships/src/test/java
+2024-06-30 22:08:12,100 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /relationships/src/test/resources
+2024-06-30 22:08:12,371 [Worker-774: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-06-30 22:08:12,371 [Worker-774: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-30 22:08:12,455 [Worker-774: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.relationships:relationships:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/relationships/pom.xml.
+2024-06-30 22:08:12,563 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /relationships/src/main/java
+2024-06-30 22:08:12,563 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /relationships/src/main/resources
+2024-06-30 22:08:12,563 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /relationships/src/main/resources
+2024-06-30 22:08:12,563 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /relationships/src/test/java
+2024-06-30 22:08:12,563 [Worker-774: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /relationships/src/test/resources
+2024-06-30 22:08:12,825 [Worker-774: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for relationships
+2024-06-30 22:08:12,829 [Worker-774: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-06-30 22:08:13,078 [Worker-774: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 22:08:13,087 [Worker-774: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 22:08:13,091 [Worker-774: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/relationships/src/test/resources
+2024-06-30 22:08:13,091 [Worker-774: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of relationships
+2024-06-30 22:08:13,091 [Worker-774: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for relationships
+2024-06-30 22:12:23,934 [Worker-780: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 22:12:23,942 [Worker-780: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 22:12:23,943 [Worker-780: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/relationships/src/test/resources
+2024-06-30 22:13:23,262 [Worker-780: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-06-30 22:13:23,269 [Worker-780: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-30 22:13:23,270 [Worker-780: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/relationships/src/test/resources
+2024-07-01 08:09:46,661 [Worker-790: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.savetravels:SaveTravels:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/pom.xml.
+2024-07-01 08:39:26,429 [Worker-786: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 08:39:26,457 [Worker-786: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 08:39:26,459 [Worker-786: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:05:45,624 [Worker-796: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:05:45,625 [Worker-796: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:05:45,627 [Worker-796: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:07:19,451 [Worker-804: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:07:19,454 [Worker-804: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:07:19,455 [Worker-804: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:07:47,731 [Worker-799: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:07:47,733 [Worker-799: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:07:47,733 [Worker-799: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:08:05,660 [Worker-800: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:08:05,661 [Worker-800: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:08:05,662 [Worker-800: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:08:14,625 [Worker-803: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:08:14,626 [Worker-803: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:08:14,627 [Worker-803: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:09:25,368 [Worker-805: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:09:25,369 [Worker-805: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:09:25,370 [Worker-805: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:09:35,500 [Worker-806: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:09:35,500 [Worker-806: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:09:35,501 [Worker-806: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:12:11,403 [Worker-806: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:12:11,404 [Worker-806: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:12:11,406 [Worker-806: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:12:39,615 [Worker-804: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:12:39,616 [Worker-804: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:12:39,617 [Worker-804: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 10:25:34,479 [Worker-811: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 10:25:34,588 [Worker-811: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 10:25:34,591 [Worker-811: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:22:35,989 [Worker-818: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:22:35,997 [Worker-818: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:22:35,998 [Worker-818: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:23:11,841 [Worker-817: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:23:11,845 [Worker-817: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:23:11,846 [Worker-817: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:31:59,713 [Worker-819: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:31:59,730 [Worker-819: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:31:59,731 [Worker-819: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:32:17,383 [Worker-822: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:32:17,389 [Worker-822: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:32:17,390 [Worker-822: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:39:20,274 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:39:20,282 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:39:20,283 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:39:49,171 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:39:49,178 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:39:49,179 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:40:25,481 [Worker-830: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:40:25,501 [Worker-830: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:40:25,504 [Worker-830: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:42:16,941 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:42:16,943 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:42:16,944 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:42:24,869 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:42:24,869 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:42:24,870 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:42:40,106 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:42:40,111 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:42:40,112 [Worker-829: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:44:39,291 [Worker-816: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:44:39,299 [Worker-816: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:44:39,300 [Worker-816: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:53:40,015 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:53:40,030 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:53:40,031 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:53:43,079 [Worker-838: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:53:43,095 [Worker-838: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:53:43,097 [Worker-838: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:53:45,149 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:53:45,152 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:53:45,153 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:55:30,149 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:55:30,157 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:55:30,158 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:55:47,008 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:55:47,017 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:55:47,018 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:56:35,870 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:56:35,879 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:56:35,880 [Worker-839: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 11:59:49,183 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 11:59:49,195 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 11:59:49,197 [Worker-834: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:00:12,446 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:00:12,465 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:00:12,467 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:00:24,713 [Worker-833: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:00:24,714 [Worker-833: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:00:24,715 [Worker-833: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:00:43,113 [Worker-833: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:00:43,120 [Worker-833: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:00:43,121 [Worker-833: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:02:40,511 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:02:40,513 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:02:40,514 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:06:30,472 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:06:30,473 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:06:30,473 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:11:48,452 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:11:48,469 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:11:48,471 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:18:52,740 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:18:52,749 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:18:52,751 [Worker-841: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:19:20,653 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:19:20,659 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:19:20,660 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:20:55,021 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:20:55,027 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:20:55,028 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:23:06,077 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:23:06,082 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:23:06,082 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:24:00,821 [Worker-844: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:24:00,822 [Worker-844: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:24:00,823 [Worker-844: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:24:52,523 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:24:52,525 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:24:52,526 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:27:58,797 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:27:58,806 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:27:58,807 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:28:05,250 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:28:05,258 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:28:05,260 [Worker-842: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:31:01,449 [Worker-848: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:31:01,454 [Worker-848: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:31:01,454 [Worker-848: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:31:18,354 [Worker-846: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:31:18,366 [Worker-846: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:31:18,370 [Worker-846: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:31:46,666 [Worker-843: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:31:46,672 [Worker-843: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:31:46,673 [Worker-843: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:32:37,793 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:32:37,807 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:32:37,808 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:33:57,188 [Worker-846: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:33:57,193 [Worker-846: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:33:57,194 [Worker-846: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:34:01,926 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:34:01,931 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:34:01,931 [Worker-840: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:34:37,679 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:34:37,684 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:34:37,685 [Worker-845: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:35:05,662 [Worker-844: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:35:05,669 [Worker-844: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:35:05,669 [Worker-844: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:39:51,798 [Worker-835: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.BooksAPI:BooksAPI:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BooksAPI/pom.xml.
+2024-07-01 12:39:52,065 [Worker-835: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:39:52,072 [Worker-835: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:39:52,074 [Worker-835: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BooksAPI/src/test/resources
+2024-07-01 12:39:52,243 [Worker-851: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:39:52,243 [Worker-851: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:39:52,245 [Worker-851: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/BooksAPI/src/test/resources
+2024-07-01 12:39:52,245 [Worker-851: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BooksAPI
+2024-07-01 12:39:52,245 [Worker-851: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BooksAPI
+2024-07-01 12:41:54,326 [Worker-853: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:41:54,333 [Worker-853: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:41:54,333 [Worker-853: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:42:06,670 [Worker-856: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:42:06,675 [Worker-856: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:42:06,676 [Worker-856: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:55:15,943 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:55:15,954 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:55:15,955 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:55:31,806 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:55:31,807 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:55:31,808 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:55:48,783 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:55:48,788 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:55:48,789 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:55:59,466 [Worker-860: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:55:59,472 [Worker-860: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:55:59,472 [Worker-860: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:56:07,111 [Worker-864: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 12:56:07,120 [Worker-864: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:56:07,122 [Worker-864: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 12:57:22,006 [Worker-860: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:57:22,007 [Worker-860: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 12:57:22,008 [Worker-860: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:02:01,189 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:02:01,198 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:02:01,199 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:02:11,768 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:02:11,773 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:02:11,774 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:03:04,972 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:03:04,998 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:03:05,002 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:03:25,268 [Worker-858: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:03:25,268 [Worker-858: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:03:25,271 [Worker-858: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:04:29,541 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:04:29,548 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:04:29,549 [Worker-865: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:05:06,986 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:05:06,987 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:05:06,990 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:05:31,930 [Worker-867: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:05:31,933 [Worker-867: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:05:31,934 [Worker-867: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:06:32,795 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:06:32,797 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:06:32,798 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:06:41,392 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:06:41,398 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:06:41,399 [Worker-862: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:07:25,100 [Worker-868: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:07:25,101 [Worker-868: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:07:25,101 [Worker-868: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:08:11,446 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:08:11,447 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:08:11,448 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:08:20,006 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:08:20,007 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:08:20,008 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:09:31,656 [Worker-866: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:09:31,664 [Worker-866: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:09:31,665 [Worker-866: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:09:48,722 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:09:48,723 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:09:48,723 [Worker-858: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:11:16,554 [Worker-870: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:11:16,555 [Worker-870: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:11:16,556 [Worker-870: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:14:46,541 [Worker-872: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:14:46,543 [Worker-872: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:14:46,544 [Worker-872: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:16:52,497 [Worker-875: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:16:52,499 [Worker-875: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:16:52,500 [Worker-875: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:21:00,790 [Worker-876: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:21:00,791 [Worker-876: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:21:00,792 [Worker-876: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:22:08,072 [Worker-878: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:22:08,074 [Worker-878: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:22:08,075 [Worker-878: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:22:12,912 [Worker-878: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:22:12,920 [Worker-878: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:22:12,921 [Worker-878: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:22:59,532 [Worker-875: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:22:59,535 [Worker-875: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:22:59,536 [Worker-875: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:23:38,470 [Worker-873: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:23:38,477 [Worker-873: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:23:38,479 [Worker-873: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:24:35,958 [Worker-874: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsos.hopperreceipt:HoppersReceipt:0.0.1-SNAPSHOT @ /Users/teast/AXSOS/assinments/JAVA/SpringProjects/HoppersReceipt/pom.xml.
+2024-07-01 13:24:36,149 [Worker-874: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:24:36,158 [Worker-874: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:24:36,160 [Worker-874: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/HoppersReceipt/src/test/resources
+2024-07-01 13:24:36,311 [Worker-876: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:24:36,312 [Worker-876: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:24:36,313 [Worker-876: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/HoppersReceipt/src/test/resources
+2024-07-01 13:24:36,313 [Worker-876: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HoppersReceipt
+2024-07-01 13:24:36,313 [Worker-876: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HoppersReceipt
+2024-07-01 13:26:53,430 [Worker-882: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:26:53,432 [Worker-882: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:26:53,432 [Worker-882: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:29:58,571 [Worker-885: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:29:58,573 [Worker-885: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:29:58,573 [Worker-885: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:30:00,660 [Worker-875: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:30:00,667 [Worker-875: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:30:00,668 [Worker-875: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:30:16,592 [Worker-887: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:30:16,592 [Worker-887: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:30:16,593 [Worker-887: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:43:34,324 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:43:34,326 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:43:34,326 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:44:12,182 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:44:12,183 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:44:12,184 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:45:05,019 [Worker-884: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:45:05,020 [Worker-884: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:45:05,021 [Worker-884: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:46:14,188 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:46:14,189 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:46:14,190 [Worker-889: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:58:25,862 [Worker-890: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:58:25,863 [Worker-890: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:58:25,864 [Worker-890: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:59:33,896 [Worker-894: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:59:33,897 [Worker-894: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:59:33,898 [Worker-894: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 13:59:59,063 [Worker-895: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 13:59:59,070 [Worker-895: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 13:59:59,072 [Worker-895: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:02:25,302 [Worker-893: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:02:25,311 [Worker-893: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:02:25,311 [Worker-893: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:03:36,424 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:03:36,438 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:03:36,439 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:05:18,100 [Worker-894: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:05:18,108 [Worker-894: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:05:18,109 [Worker-894: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:08:06,991 [Worker-898: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:08:06,996 [Worker-898: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:08:06,998 [Worker-898: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:08:18,933 [Worker-896: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:08:18,937 [Worker-896: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:08:18,937 [Worker-896: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:09:02,713 [Worker-891: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:09:02,719 [Worker-891: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:09:02,720 [Worker-891: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:10:11,502 [Worker-898: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:10:11,513 [Worker-898: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:10:11,515 [Worker-898: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:10:16,577 [Worker-901: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:10:16,580 [Worker-901: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:10:16,581 [Worker-901: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:10:25,527 [Worker-899: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:10:25,549 [Worker-899: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:10:25,552 [Worker-899: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:12:05,428 [Worker-901: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:12:05,432 [Worker-901: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:12:05,433 [Worker-901: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:13:14,536 [Worker-898: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:13:14,541 [Worker-898: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:13:14,542 [Worker-898: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:16:18,913 [Worker-901: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:16:18,930 [Worker-901: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:16:18,931 [Worker-901: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:17:24,212 [Worker-900: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:17:24,220 [Worker-900: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:17:24,221 [Worker-900: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:19:15,759 [Worker-900: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:19:15,768 [Worker-900: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:19:15,769 [Worker-900: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:22:29,579 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:22:29,580 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:22:29,581 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:24:25,233 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:24:25,234 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:24:25,234 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:31:58,758 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:31:58,766 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:31:58,767 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:32:38,077 [Worker-906: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:32:38,083 [Worker-906: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:32:38,086 [Worker-906: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:33:08,840 [Worker-907: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:33:08,847 [Worker-907: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:33:08,848 [Worker-907: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:33:53,041 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:33:53,044 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:33:53,046 [Worker-894: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:36:31,357 [Worker-908: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:36:31,363 [Worker-908: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:36:31,364 [Worker-908: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:43:45,866 [Worker-911: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:43:45,871 [Worker-911: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:43:45,872 [Worker-911: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:45:33,454 [Worker-916: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:45:33,455 [Worker-916: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:45:33,456 [Worker-916: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
+2024-07-01 14:53:40,308 [Worker-919: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-01 14:53:40,317 [Worker-919: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-01 14:53:40,318 [Worker-919: Launching SaveTravels - SaveTravelsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/teast/AXSOS/assinments/JAVA/SpringProjects/SaveTravels/src/test/resources
