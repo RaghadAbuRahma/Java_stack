@@ -1,5 +1,6 @@
 package com.axsos.dojoandninjas.services;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
@@ -24,9 +25,8 @@ public class DojoService {
 	    	
 	    }
 	    
-	    public Dojo FindDojo() {
-	    	return dojoRepository.findById(Long id);
+	    public Optional<Dojo> FindDojo(Long id) {
+	    	return dojoRepository.findById(id);
 	    }
 	    
-
 }
