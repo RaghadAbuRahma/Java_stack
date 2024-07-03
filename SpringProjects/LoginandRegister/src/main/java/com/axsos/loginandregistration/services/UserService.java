@@ -16,10 +16,10 @@ public class UserService {
 	
 		
 	@Autowired
-	private UserRepository userRepo;
+	private UserRepository userRepository;
 	
 	 public User register(User newUser, BindingResult result) {
-		 Optional<User> optionalUser = userRepo.findByEmail(newUser.getEmail());
+		 Optional<User> optionalUser = userRepository.findByEmail(newUser.getEmail());
 		 if(optionalUser.isPresent()) {
 			 result.rejectValue("email","Found","The email you entered is already used");
 			 return null;
@@ -31,7 +31,7 @@ public class UserService {
 		 
 		 String hashed = BCrypt.hashpw(newUser.getPassword(), BCrypt.gensalt());
 		 newUser.setPassword(hashed);
-		 userRepo.save(newUser);
+		 userRepository.save(newUser);
 		 return newUser;
 		 
 
@@ -39,7 +39,7 @@ public class UserService {
 	 }
 	 
 	 public User login(LoginUser login,  BindingResult result ) {
-		 Optional<User> optionalUser = userRepo.findByEmail(login.getEmail());
+		 Optional<User> optionalUser = userRepository.findByEmail(login.getEmail());
 		 if(!optionalUser.isPresent()) {
 			 result.rejectValue("email","notFound","The email you entered does not exist");
 			 return null;

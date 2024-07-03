@@ -71,11 +71,9 @@ public class MainController {
 	  public String show(@PathVariable Long id, Model model) {
 		    Optional<Expenses> expense = expensesService.findExpense(id);
 
-		    // Check if the expense is present and add it to the model
 		    if (expense.isPresent()) {
 		        model.addAttribute("expense", expense.get());
 		    } else {
-		        // Handle the case where the expense is not found
 		        model.addAttribute("error", "Expense not found");
 		    }
 
