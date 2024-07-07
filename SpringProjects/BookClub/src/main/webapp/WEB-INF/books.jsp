@@ -28,17 +28,57 @@
 		<th>Number Of Pages</th>
 		<th>Description</th>
 		<th>Posted by</th>
-		<c:forEach var="book" items="${books}">
-			<tr>	
-				<td>
-					<a href="/details/${book.id}"><c:out value="${book.title}"/></a>
-				</td>
-				<td><c:out value="${book.numberOfPages}"/></td>
-				<td><c:out value="${book.description}"/></td>
-				<td><c:out value="${book.user.userName}"/></td>
-			</tr>
+		<th>Action</th>
+		
+		<c:forEach var="book" items="${otherBooks}">
+		    <tr>
+		        <td>
+		            <a href="/details/${book.id}"><c:out value="${book.title}"/></a>
+		        </td>
+		        <td><c:out value="${book.numberOfPages}"/></td>
+		        <td><c:out value="${book.description}"/></td>
+		        <td><c:out value="${book.user.userName}"/></td>
+				<c:choose>
+		            <c:when test="${book.user.id == loggedUser.id}">
+		                <td><a href="/books/${book.id}/edit">edit</a></td>
+		            </c:when>
+		            <c:when test="${book.user.id != loggedUser.id && book.borrower == null}">
+		                <td><a href="/borrow/${book.id}">Borrow</a></td>
+		            </c:when>
+		            <c:when test="${book.borrower != null && book.user.id != loggedUser.id}">
+		                <td style="color: red">Borrowed</td>
+		            </c:when>
+		            <c:otherwise>
+		                <td></td>
+		            </c:otherwise>
+		       </c:choose>
+		    </tr>
 		</c:forEach>
+
    </table>
+   <table>
+   <tr>
+   	<th>Title</th>
+   	<th>Number Of Pages</th>
+   	<th>Description</th>
+   	<th>Posted by</th>
+   	<th>Action</th>
+   	<c:forEach var="book" items="${borrowedBooks}">
+   		<tr>	
+   			<td>
+   				<a href="/details/${book.id}"><c:out value="${book.title}"/></a>
+   			</td>
+   			<td><c:out value="${book.numberOfPages}"/></td>
+   			<td><c:out value="${book.description}"/></td>
+   			<td><c:out value="${book.user.userName}"/></td>
+   			<td><a href="/return/${book.id}">return</a></td>
+   		</tr>
+   	</c:forEach>
+   	
+   	
+     </table>
+   
+   
  
 </body>
 </html>

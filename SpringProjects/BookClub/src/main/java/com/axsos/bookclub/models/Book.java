@@ -3,6 +3,7 @@ package com.axsos.bookclub.models;
 import java.util.Date;
 
 import org.springframework.format.annotation.DateTimeFormat;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -44,6 +45,10 @@ public class Book {
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name="user_id")
     private User user;
+    
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "borrower_id", nullable = true)
+    private User borrower;
     
     public Book() {
     }
@@ -112,5 +117,15 @@ public class Book {
 	public void setUser(Object object) {
 		this.user = (User) object;
 	}
+	public User getBorrower() {
+		return borrower;
+	}
+	public void setBorrower(User borrower) {
+		this.borrower = borrower;
+	}
+	public void setUser(User user) {
+		this.user = user;
+	}
+	
     
 }

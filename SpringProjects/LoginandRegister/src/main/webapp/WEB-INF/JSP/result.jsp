@@ -20,6 +20,28 @@
 <body>
    <h1>Welcome ${loggedUser.userName}</h1>
    <a href="/logout">Log Out</a>
+   <table class="table table-bordered text-center">
+		<thead>
+		   <tr>
+		     <th>Project:</th>
+			 <th>Team Lead:</th>
+			 <th>Due Date</th>
+			 
+			 
+			 
+			</tr>
+		</thead>
+		<c:forEach var="project" items="${allProjects}">
+			<tr>
+				<td><a href=""><c:out value="${project.name}"/></a></td>
+				<td><c:out value="${project.lead}"></td>
+				<td><c:out value="${project.dueDate}"></td>
+				
+				
+			</tr>
+		</c:forEach>
+
+   	</table>
 </body>
 </html>
 

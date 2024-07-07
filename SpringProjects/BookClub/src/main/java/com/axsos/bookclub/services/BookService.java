@@ -4,7 +4,9 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
 import com.axsos.bookclub.models.Book;
+import com.axsos.bookclub.models.User;
 import com.axsos.bookclub.repositories.BookRepository;
 
 
@@ -37,6 +39,14 @@ public Book updateBook(Book book) {
 public void deleteBook(Long id) {
 	bookRepository.deleteById (id);
 }
-
-
+public List<Book> borrowedBooks(User borrower) {
+    return bookRepository.findAllByBorrower(borrower);
 }
+
+public List<Book> otherBooks(User borrower){
+        return bookRepository.findBooksNotBorrowedByUser(borrower);
+    }
+}
+
+
+
